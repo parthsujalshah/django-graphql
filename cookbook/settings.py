@@ -125,5 +125,5 @@ STATIC_URL = '/static/'
 
 
 GRAPHENE = {
-    'SCHEME': 'cookbook.schema.schema'
+    'SCHEMA': 'cookbook.schema.schema'
 }
