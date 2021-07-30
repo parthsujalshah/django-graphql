@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # APPS
-    'books'
+    'books',
 
     # EXTERNAL PACKAGES
     'graphene_django'
